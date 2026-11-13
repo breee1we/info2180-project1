@@ -78,6 +78,9 @@ header a:hover{
 }
 .card img{
     width:100%;
+    height: 250px;
+    object-fit: cover;
+    display: block;
 }
 .card-body{
     padding: 15px;
